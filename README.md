@@ -36,3 +36,4 @@ print("suma: ", num1 + num2 + num3)
 
 przykladowy fragment kodu to `print("Hello World")`
 
+![komputer-pc.jpg](komputer-pc.jpg)
